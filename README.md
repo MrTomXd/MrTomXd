@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=F77728&width=550&lines=𝗛𝗲𝗹𝗹𝗼+welcome+to+my+profile+My+Name+Is+Chinnu+💖">
 </p> 
 
- <p align="center">
+ 
  <[![GIF](https://github.com/MrTomXd/MrTomXd/blob/main/MrTomXd.gif)](https://github.com/MrTomXd)
    [![𝐌ʀ『🇹𝐎M 』𓆩𓂍𓆪](https://github-stats-alpha.vercel.app/api?username=MrTomXd "MrTomXd")](https://github-stats-alpha.vercel.app/api?username=MrTomXd "MrTomXd")
   </p>                                                         
