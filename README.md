@@ -2,7 +2,7 @@
 
 
 <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?color=F77729&width=550&lines=𝗛𝗲𝗹𝗹𝗼+welcome+to+my+profile+My+Name+Is+Chinnu+💖">
+<img src="https://readme-typing-svg.herokuapp.com?color=F77829&width=550&lines=𝗛𝗲𝗹𝗹𝗼+welcome+to+my+profile+My+Name+Is+Chinnu+💖">
 </p> 
 
 
@@ -32,13 +32,6 @@
  
  <p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
 
- 
-# ✪ Github Streak ✪
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=MrTomXd&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D&fire=FF8100)](https://MrTomXd.me)
-
-  <p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
-
 # Contribution Graph:
 
 
@@ -48,3 +41,5 @@
   </a>
 </p>
 <a href="https://github.com/MrTomXd"><img alt="Abir's Activity Graph" src="https://ghactivity.MrTomXd.me/graph?username=MrTomXd&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+  <p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></
