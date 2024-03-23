@@ -31,7 +31,3 @@
 [![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=MrTomXd&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/MrTomXd)
  
  <p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
-
-<a href="https://github.com/MrTomXd"><img alt="匚卄丨几几ㄩ Activity Graph" src="https://ghactivity.MrTomXd.me/graph?username=MrTomXd&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-  <p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></
