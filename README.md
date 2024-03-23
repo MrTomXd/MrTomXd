@@ -4,7 +4,11 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=F77728&width=550&lines=𝗛𝗲𝗹𝗹𝗼+welcome+to+my+profile+My+Name+Is+Chinnu+💖">
 </p> 
-     
+
+     ㅤ[![GIF](https://github.com/MrTomXd/MrTomXd/blob/main/MrTomXd.gif)](https://github.com/MrTomXd)
+   [![𝐌ʀ『🇹𝐎M 』𓆩𓂍𓆪](https://github-stats-alpha.vercel.app/api?username=MrTomXd "MrTomXd")](https://github-stats-alpha.vercel.app/api?username=MrTomXd "MrTomXd")
+                                                          
+  
 <p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
 <p align="center">
     <b>ᐯ丨丂丨ㄒㄖ尺丂 匚ㄖㄩ几ㄒ ㄖ千 爪ㄚ 卩尺ㄖ千丨ㄥ乇</b><br>
