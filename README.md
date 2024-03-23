@@ -37,9 +37,9 @@
 
 <p align="center">
   <a href="https://github.com">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DAXXTEAM#version3"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrTomXd#version3"/>
   </a>
 </p>
-<a href="https://github.com/MrTomXd"><img alt="Abir's Activity Graph" src="https://ghactivity.MrTomXd.me/graph?username=MrTomXd&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/MrTomXd"><img alt="匚卄丨几几ㄩ Activity Graph" src="https://ghactivity.MrTomXd.me/graph?username=MrTomXd&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
   <p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></
