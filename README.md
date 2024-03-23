@@ -1,8 +1,8 @@
 <p align="left"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
 
 
-<p align=";eft">
-<img src="https://readme-typing-svg.herokuapp.com?color=F77728&width=550&lines=𝗛𝗲𝗹𝗹𝗼+welcome+to+my+profile+My+Name+Is+Chinnu+💖">
+<p align="left">
+<img src="https://readme-typing-svg.herokuapp.com?color=F77729&width=550&lines=𝗛𝗲𝗹𝗹𝗼+welcome+to+my+profile+My+Name+Is+Chinnu+💖">
 </p> 
 
 
@@ -31,3 +31,11 @@
 [![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=MrTomXd&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/MrTomXd)
  
  <p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
+
+ 
+# Github Streak ☠︎︎
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=MrTomXd&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D&fire=FF8100)](https://MrTomXd.me)
+
+  <p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
+
