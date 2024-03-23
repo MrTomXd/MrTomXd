@@ -6,7 +6,7 @@
 </p> 
 
 
-<p align="center"><[![GIF](https://github.com/MrTomXd/MrTomXd/blob/main/MrTomXd.gif)](https://github.com/MrTomXd)
+<[![GIF](https://github.com/MrTomXd/MrTomXd/blob/main/MrTomXd.gif)](https://github.com/MrTomXd)
    [![𝐌ʀ『🇹𝐎M 』𓆩𓂍𓆪](https://github-stats-alpha.vercel.app/api?username=MrTomXd "MrTomXd")](https://github-stats-alpha.vercel.app/api?username=MrTomXd "MrTomXd")
   </p>                                                         
   
